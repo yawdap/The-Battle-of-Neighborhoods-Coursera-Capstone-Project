@@ -1,7 +1,6 @@
 # The Battle of Neighborhoods: Business Location Analysis
 
-![Project Banner](https://via.placeholder.com/1200x400?text=Neighborhood+Analysis+with+Foursquare+API)  
-*(Replace with an actual screenshot or banner image of your project)*
+![Project Banner](https://github.com/yawdap/The-Battle-of-Neighborhoods-Coursera-Capstone-Project/blob/master/IBM-Data-Science-Professional-Certificate.png)  
 
 ## 📌 Overview
 This project analyzes and compares neighborhoods in major cities to determine optimal locations for new businesses (e.g., restaurants, retail stores). Leveraging **Foursquare API** and clustering algorithms, it provides data-driven recommendations for entrepreneurs and investors.
