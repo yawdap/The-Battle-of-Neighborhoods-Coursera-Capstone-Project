@@ -50,8 +50,7 @@ The-Battle-of-Neighborhoods/
 - Created a scoring system for location viability
 
 ## 📊 Sample Output
-![Cluster Map](https://via.placeholder.com/600x400?text=Example+Folium+Map+Output)  
-*(Replace with actual image of your Folium map or analysis charts)*
+![Cluster Map](https://github.com/yawdap/yawdapaa/blob/main/images/fulls/crime.png)
 
 ## 🏆 Business Impact
 This analysis helps:
